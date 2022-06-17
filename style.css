@@ -1,0 +1,89 @@
+body {
+    background-color: hsl(0, 0%, 95%);
+}
+
+.main {
+    display: flex;
+    margin: auto;
+    padding: 40px;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    Font-size: 15px;
+    font-weight: 400px;
+    width: 60%;
+}
+
+.main h2 {
+    font-weight: 400px;
+}
+
+.sedans {
+    background-color: hsl(31, 77%, 52%);
+    height: 50vh;
+    color: hsla(0, 0%, 100%, 0.75);
+    padding: 40px;
+    justify-content: center;
+    margin: auto;
+    font-family: 'Lexend', sans-serif;
+
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.suvs {
+    height: 50vh;
+    background-color: hsl(184, 100%, 22%);
+    color: hsla(0, 0%, 100%, 0.75);
+    justify-content: center;
+    padding: 40px;
+    font-family: 'Lexend', sans-serif;
+
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.luxury {
+    height: 50vh;
+    background-color: hsl(179, 100%, 13%);
+    color: hsla(0, 0%, 100%, 0.75);
+    justify-content: center;
+    padding: 40px;
+    font-family: 'Lexend', sans-serif;
+
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+#buttona {
+    background-color: hsl(0, 0%, 95%);
+    color: hsl(31, 77%, 52%);
+    font-size: 15px;
+    padding: 5px 10px;
+    border-radius: 22px;
+
+    font-family: 'Lexend', sans-serif;
+
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+#buttonb {
+    background-color: hsl(0, 0%, 95%);
+    color: hsl(184, 100%, 22%);
+    font-size: 15px;
+    padding: 5px 10px;
+    border-radius: 22px;
+
+    font-family: 'Lexend', sans-serif;
+
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+#buttonc {
+    background-color: hsl(0, 0%, 95%);
+    color: hsl(179, 100%, 13%);
+    font-size: 15px;
+    padding: 5px 10px;
+    border-radius: 22px;
+    align-items: 15px;
+    font-family: 'Lexend', sans-serif;
+
+    font-family: 'Lexend Deca', sans-serif;
+}
